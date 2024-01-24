@@ -1,2 +1,2 @@
-# CodeSoft
-Internship task
+# CODSOFT
+LANDING PAGE
